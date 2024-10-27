@@ -4,3 +4,5 @@
 *.lol
 *.toc
 *.lof
+*.out
+*.gz
