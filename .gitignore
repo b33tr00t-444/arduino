@@ -1,1 +1,6 @@
 *.txt
+*.aux
+*.log
+*.lol
+*.toc
+*.lof
